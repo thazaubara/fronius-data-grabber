@@ -43,6 +43,16 @@ fronius_ip_address = "local ip of fronius inverter"
 
 ## Usage
 
+Runs on a Raspberry Pi in the same network as the Fronius inverter. 2 Minute crontab.
+
+```
+crontab -e 
+
+*/2 * * * * python3 /home/pi/fronius-data-grabber.py | logger
+```
+
+## Why tho?
+
 Badass Grafana Dashboards. View them on https://zaubara.com/pv-panels/
 
 <img src="assets/Screenshot 2023-09-02 at 21.36.09.png" alt="Screenshot 2023-09-02 at 21.36.09" />
