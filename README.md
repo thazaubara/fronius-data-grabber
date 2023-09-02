@@ -50,12 +50,3 @@ Badass Grafana Dashboards. View them on https://zaubara.com/pv-panels/
 <img src="assets/Screenshot 2023-09-02 at 21.36.15.png" alt="Screenshot 2023-09-02 at 21.36.15" />
 
 <img src="assets/Screenshot 2023-09-02 at 21.37.32.png" alt="Screenshot 2023-09-02 at 21.37.32" />
-
-## iFrames
-
-<iframe src="https://grafana.zaubara.com/d-solo/i9JAmeK4z/solar?orgId=1&refresh=30s&theme=dark&panelId=12" width="450" height="400" frameborder="0"></iframe>
-
-<iframe src="https://grafana.zaubara.com/d-solo/i9JAmeK4z/solar?orgId=1&refresh=30s&theme=dark&panelId=2" width="450" height="400" frameborder="0"></iframe>
-
-<iframe src="https://grafana.zaubara.com/d-solo/i9JAmeK4z/solar?orgId=1&refresh=30s&theme=dark&panelId=31" width="450" height="400" frameborder="0"></iframe>
-
