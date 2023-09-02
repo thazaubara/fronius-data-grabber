@@ -45,11 +45,11 @@ fronius_ip_address = "local ip of fronius inverter"
 
 Badass Grafana Dashboards. View them on https://zaubara.com/pv-panels/
 
-![Screenshot 2023-09-02 at 21.36.09](assets/Screenshot 2023-09-02 at 21.36.09.png)
+<img src="assets/Screenshot 2023-09-02 at 21.36.09.png" alt="Screenshot 2023-09-02 at 21.36.09" />
 
-![Screenshot 2023-09-02 at 21.36.15](assets/Screenshot 2023-09-02 at 21.36.15.png)
+<img src="assets/Screenshot 2023-09-02 at 21.36.15.png" alt="Screenshot 2023-09-02 at 21.36.15" />
 
-![Screenshot 2023-09-02 at 21.37.32](assets/Screenshot 2023-09-02 at 21.37.32.png)
+<img src="assets/Screenshot 2023-09-02 at 21.37.32.png" alt="Screenshot 2023-09-02 at 21.37.32" />
 
 ## iFrames
 
